@@ -8,6 +8,7 @@ Url  https://rahulshettyacademy.com/angularpractice/shop
 Open the Proto Commerce shop page
 
 Added Samsung Note and Blackberry to the shopping cart
+
 Click Checkout button
 
 Start typing the name the country "Dublin"
