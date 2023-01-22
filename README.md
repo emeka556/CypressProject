@@ -21,6 +21,8 @@ Final project of Automation Testing - Dublin Coding School
 7. Start typing the name the country "Dublin"
 
 
+Homepage.js not part of this Project
+
 
 
 
