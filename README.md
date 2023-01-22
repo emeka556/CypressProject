@@ -21,12 +21,6 @@ Final project of Automation Testing - Dublin Coding School
 7. Start typing the name the country "Dublin"
 
 
-Homepage.js not part of this Project
-
-
-
-
-
 8. Check the checkbox to accept terms
 
 
@@ -35,3 +29,7 @@ Homepage.js not part of this Project
 
 
 10. Verify that the message displayed matches the message on the page after purchase 
+
+
+# Note
+Homepage.js not part of this Project
