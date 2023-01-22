@@ -28,7 +28,7 @@ Final project of Automation Testing - Dublin Coding School
 8. Check the checkbox to accept terms
 
 
-9 Click Purchase
+9. Click Purchase
 
 
 
