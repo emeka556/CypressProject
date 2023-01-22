@@ -4,7 +4,7 @@
 Final project of Automation Testing - Dublin Coding School
 
 
-#Steps 
+# Steps 
 1 Url  https://rahulshettyacademy.com/angularpractice/shop
 
 2. Open the Proto Commerce shop page
@@ -32,4 +32,4 @@ Final project of Automation Testing - Dublin Coding School
 
 
 
-Verify that the message displayed matches the message on the page after purchase 
+10. Verify that the message displayed matches the message on the page after purchase 
