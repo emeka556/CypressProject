@@ -4,28 +4,31 @@
 Final project of Automation Testing - Dublin Coding School
 
 
+#Steps 
+1 Url  https://rahulshettyacademy.com/angularpractice/shop
 
-Url  https://rahulshettyacademy.com/angularpractice/shop
+2. Open the Proto Commerce shop page
 
-Open the Proto Commerce shop page
+3. Added Samsung Note8 and Blackberry to the shopping cart
 
-Added Samsung Note and Blackberry to the shopping cart
+4. Verify that there is only 1 quantity for each item in the cart
 
+5. Click Checkout button
 
-Click Checkout button
-
-
-Start typing the name the country "Dublin"
-
-
-Verify that there is only 1 quantity for each item in the cart
+6. Click on the other chechout Button to continue shopping
 
 
+7. Start typing the name the country "Dublin"
 
-Check the checkbox
 
 
-Click Purchase
+
+
+
+8. Check the checkbox to accept terms
+
+
+9 Click Purchase
 
 
 
