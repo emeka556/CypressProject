@@ -15,7 +15,7 @@ Final project of Automation Testing - Dublin Coding School
 
 5. Click Checkout button
 
-6. Click on the other chechout Button to continue shopping
+6. Click on the other checkout Button to continue shopping
 
 
 7. Start typing the name the country "Dublin"
