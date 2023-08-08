@@ -1,8 +1,7 @@
 # CypressProject
 
 # About
-Final project of Automation Testing - Dublin Coding School
-
+Automation Testing 
 
 # Steps 
 1 Url  https://rahulshettyacademy.com/angularpractice/shop
